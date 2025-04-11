@@ -1,0 +1,12 @@
+.day:hover:first-child {
+    background-color: #784df8;
+  }
+  #a-lessons:disabled {
+color: red;
+  }
+  .d-lessons:hover {
+    color: green;
+  }
+  .c-lessons:focus {
+    color: blue;
+  }
